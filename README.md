@@ -1,3 +1,2 @@
-# weather-reporting-system
- I have used the LDR sensor, DHT11 sensor, Rain sensor, and BMP-180 sensor. Therefore, we can get the Temperature, Humidity, Pressure, Light, and Rainfall values. To make the system more user-friendly, I have utilized the Blynk mobile and web dashboards, giving you the freedom to choose which one you prefer
-The LDR Sensor is used to measure the intensity of light in the environment, while the DHT11 Sensor is a digital temperature and humidity sensor that can measure temperature and humidity levels accurately. Also, if you want more accuracy values, please use the DHT22 sensor for that. Also, the Rain Sensor is used to detect the presence of water, enabling us to obtain rainfall data, and the BMP-180 Sensor is a barometric pressure sensor that can measure atmospheric pressure and temperature. But I have used only pressure values. By using all of these sensors together, we can gather a comprehensive set of weather data, which can be used for various applications such as agriculture, weather forecasting, and more. It depends on your requirements.
+# LiquidCrystal_I2C
+LiquidCrystal Arduino library for the DFRobot I2C LCD displays
